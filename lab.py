@@ -14,12 +14,14 @@ CAL_SD=np.array([.01,.02]) # independently measured c and v
 READ_SD=2.
 
 def sigma_px(N):
+    """550 nm wavelength and 4 micrometre pitch; N sets Gaussian pupil size."""
     return .550*N/(np.sqrt(2)*np.pi*4.)
 
 def image(theta,a=.35,times=TIMES,durations=DURATIONS,nodes=32):
     N,alpha,delta,c,v=theta
     if N<=0 or abs(alpha)>1 or np.any(np.asarray(durations)<0):
         raise ValueError('Invalid width, shutter asymmetry or duration')
+    # Map quadrature from [-1, 1] to normalized exposure [-1/2, 1/2].
     z,w=leggauss(nodes); u=z/2; w=w/2
     t=np.asarray(times)[:,None]+delta+np.asarray(durations)[:,None]*u
     center=c+v*t+.5*a*t*t
@@ -40,6 +42,7 @@ def jacobian(theta,a):
 def fit(data,a,calibration=TRUTH[3:],cal_sd=CAL_SD):
     def residual(x):
         r=((image(x,a)-data)/READ_SD).ravel()
+        # Independent external-clock motion observations break the time gauge.
         return np.r_[r,(x[3:]-calibration)/cal_sd]
     r=least_squares(residual,[7.8,.5,.02,.22,.78],bounds=([3,-.95,-.5,-1,.1],[16,.95,.5,1,1.5]),xtol=1e-11,ftol=1e-11,gtol=1e-11)
     if not r.success: raise RuntimeError(r.message)
