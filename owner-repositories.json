@@ -1,0 +1,177 @@
+[
+  {
+    "name": "asymmetric-shutter-timing-learning-lab",
+    "pushed_at": "2026-09-26T19:18:34Z",
+    "url": "https://github.com/ahmetalpkilic/asymmetric-shutter-timing-learning-lab"
+  },
+  {
+    "name": "shutter-response-calibration-learning-lab",
+    "pushed_at": "2026-09-25T04:11:18Z",
+    "url": "https://github.com/ahmetalpkilic/shutter-response-calibration-learning-lab"
+  },
+  {
+    "name": "finite-exposure-optical-width-learning-lab",
+    "pushed_at": "2026-09-25T03:12:52Z",
+    "url": "https://github.com/ahmetalpkilic/finite-exposure-optical-width-learning-lab"
+  },
+  {
+    "name": "nonlinear-drift-reversal-learning-lab",
+    "pushed_at": "2026-09-24T00:25:55Z",
+    "url": "https://github.com/ahmetalpkilic/nonlinear-drift-reversal-learning-lab"
+  },
+  {
+    "name": "correlated-stage-drift-learning-lab",
+    "pushed_at": "2026-09-23T04:33:51Z",
+    "url": "https://github.com/ahmetalpkilic/correlated-stage-drift-learning-lab"
+  },
+  {
+    "name": "dither-stage-uncertainty-learning-lab",
+    "pushed_at": "2026-09-22T23:41:59Z",
+    "url": "https://github.com/ahmetalpkilic/dither-stage-uncertainty-learning-lab"
+  },
+  {
+    "name": "subpixel-phase-optical-fitting-learning-lab",
+    "pushed_at": "2026-09-22T04:12:41Z",
+    "url": "https://github.com/ahmetalpkilic/subpixel-phase-optical-fitting-learning-lab"
+  },
+  {
+    "name": "optical-fitting-nuisance-learning-lab",
+    "pushed_at": "2026-09-21T04:53:43Z",
+    "url": "https://github.com/ahmetalpkilic/optical-fitting-nuisance-learning-lab"
+  },
+  {
+    "name": "differentiable-optical-fitting-learning-lab",
+    "pushed_at": "2026-09-19T23:56:46Z",
+    "url": "https://github.com/ahmetalpkilic/differentiable-optical-fitting-learning-lab"
+  },
+  {
+    "name": "telecentric-depth-measurement-learning-lab",
+    "pushed_at": "2026-09-17T07:38:13Z",
+    "url": "https://github.com/ahmetalpkilic/telecentric-depth-measurement-learning-lab"
+  },
+  {
+    "name": "physics-image-restoration-learning-lab",
+    "pushed_at": "2026-09-16T05:53:31Z",
+    "url": "https://github.com/ahmetalpkilic/physics-image-restoration-learning-lab"
+  },
+  {
+    "name": "chromatic-color-registration-learning-lab",
+    "pushed_at": "2026-09-15T09:46:11Z",
+    "url": "https://github.com/ahmetalpkilic/chromatic-color-registration-learning-lab"
+  },
+  {
+    "name": "rolling-shutter-motion-learning-lab",
+    "pushed_at": "2026-09-15T02:46:38Z",
+    "url": "https://github.com/ahmetalpkilic/rolling-shutter-motion-learning-lab"
+  },
+  {
+    "name": "photon-centroid-precision-learning-lab",
+    "pushed_at": "2026-09-14T19:57:38Z",
+    "url": "https://github.com/ahmetalpkilic/photon-centroid-precision-learning-lab"
+  },
+  {
+    "name": "structured-light-height-learning-lab",
+    "pushed_at": "2026-09-14T15:52:42Z",
+    "url": "https://github.com/ahmetalpkilic/structured-light-height-learning-lab"
+  },
+  {
+    "name": "stereo-blur-depth-learning-lab",
+    "pushed_at": "2026-09-14T05:22:30Z",
+    "url": "https://github.com/ahmetalpkilic/stereo-blur-depth-learning-lab"
+  },
+  {
+    "name": "wavefront-camera-localization-learning-lab",
+    "pushed_at": "2026-09-14T03:37:26Z",
+    "url": "https://github.com/ahmetalpkilic/wavefront-camera-localization-learning-lab"
+  },
+  {
+    "name": "calibration-target-uncertainty-learning-lab",
+    "pushed_at": "2026-09-13T03:27:25Z",
+    "url": "https://github.com/ahmetalpkilic/calibration-target-uncertainty-learning-lab"
+  },
+  {
+    "name": "defocus-subpixel-edge-learning-lab",
+    "pushed_at": "2026-09-12T19:10:34Z",
+    "url": "https://github.com/ahmetalpkilic/defocus-subpixel-edge-learning-lab"
+  },
+  {
+    "name": "diffraction-camera-sampling-learning-lab",
+    "pushed_at": "2026-09-12T00:37:10Z",
+    "url": "https://github.com/ahmetalpkilic/diffraction-camera-sampling-learning-lab"
+  },
+  {
+    "name": "ahmetalpkilic",
+    "pushed_at": "2026-09-11T06:13:17Z",
+    "url": "https://github.com/ahmetalpkilic/ahmetalpkilic"
+  },
+  {
+    "name": "lens-distortion-measurement-learning-lab",
+    "pushed_at": "2026-09-11T06:04:20Z",
+    "url": "https://github.com/ahmetalpkilic/lens-distortion-measurement-learning-lab"
+  },
+  {
+    "name": "four-step-interferometry-learning-lab",
+    "pushed_at": "2026-09-11T06:04:23Z",
+    "url": "https://github.com/ahmetalpkilic/four-step-interferometry-learning-lab"
+  },
+  {
+    "name": "planar-homography-learning-lab",
+    "pushed_at": "2026-09-11T06:04:21Z",
+    "url": "https://github.com/ahmetalpkilic/planar-homography-learning-lab"
+  },
+  {
+    "name": "structure-tensor-texture-inspector",
+    "pushed_at": "2026-09-11T05:53:14Z",
+    "url": "https://github.com/ahmetalpkilic/structure-tensor-texture-inspector"
+  },
+  {
+    "name": "isolated-pixel-inspector",
+    "pushed_at": "2026-09-08T02:35:04Z",
+    "url": "https://github.com/ahmetalpkilic/isolated-pixel-inspector"
+  },
+  {
+    "name": "phase-correlation-quality-inspector",
+    "pushed_at": "2026-09-05T05:26:16Z",
+    "url": "https://github.com/ahmetalpkilic/phase-correlation-quality-inspector"
+  },
+  {
+    "name": "edge-ringing-inspector",
+    "pushed_at": "2026-09-02T03:05:31Z",
+    "url": "https://github.com/ahmetalpkilic/edge-ringing-inspector"
+  },
+  {
+    "name": "AI-agent-tool-LLAMA-code-execuation",
+    "pushed_at": "2026-01-09T00:11:44Z",
+    "url": "https://github.com/ahmetalpkilic/AI-agent-tool-LLAMA-code-execuation"
+  },
+  {
+    "name": "realtime-mtf-analyzer",
+    "pushed_at": "2026-01-08T20:08:05Z",
+    "url": "https://github.com/ahmetalpkilic/realtime-mtf-analyzer"
+  },
+  {
+    "name": "Calibration_Toolkit_Camera",
+    "pushed_at": "2026-01-05T07:52:10Z",
+    "url": "https://github.com/ahmetalpkilic/Calibration_Toolkit_Camera"
+  },
+  {
+    "name": "Multi-Modal-Training-Automation-Platform-dataset-train-eval-registry-",
+    "pushed_at": "2026-01-04T03:05:56Z",
+    "url": "https://github.com/ahmetalpkilic/Multi-Modal-Training-Automation-Platform-dataset-train-eval-registry-"
+  },
+  {
+    "name": "finger_counting",
+    "pushed_at": "2026-01-02T04:50:23Z",
+    "url": "https://github.com/ahmetalpkilic/finger_counting"
+  },
+  {
+    "name": "GITHUB",
+    "pushed_at": "2021-01-13T01:59:55Z",
+    "url": "https://github.com/ahmetalpkilic/GITHUB"
+  },
+  {
+    "name": "objective-first",
+    "pushed_at": "2018-07-03T21:10:54Z",
+    "url": "https://github.com/ahmetalpkilic/objective-first"
+  }
+]
